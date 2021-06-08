@@ -47,7 +47,7 @@ public abstract class Producteur2Aleas extends Producteur2Param  {
 				// partie suppression
 				// on compte le nombre total darbre à replanter
 				// on les detruit
-				// et on replante directement
+				// et on replante directement 
 				// en payant les frais associés
 				// on replante le meme arbre :
 				// pas le temps de reflechir a une strategie en temps de crise
